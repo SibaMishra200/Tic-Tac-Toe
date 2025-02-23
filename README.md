@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+a classic Tic-Tac-Toe game in Java, allowing two players to compete against each other. The game features a command-line interface where players take turns entering coordinates to place their marks ('X' or 'O') on a 3x3 grid. The program validates player moves, displays the game board after each turn, and determines the winner or a draw based on standard Tic-Tac-Toe rules. The game continues until a player wins or all cells are filled.
